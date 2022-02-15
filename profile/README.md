@@ -1,7 +1,7 @@
 ![Logotype - Sage Digital - Square](https://user-images.githubusercontent.com/676428/147601190-265b477a-d9c8-4973-8d3b-7ce1f7e99b70.png)
 
 
-# [Sage Digital](https://www.sagedigital.com/) is a software solutions agency
+# [Sage Digital](https://www.sagedigital.com/) Ruby, TypeScript, and React Developers
 
 ## We Digitally Transform Businesses
 
@@ -25,7 +25,7 @@ Our experiences with lean startups and large businesses have taught us to avoid 
 
 * [GitHub](https://github.com/sagedigital)
 * [Clutch.co](https://clutch.co/profile/sagedigitalcom)
-* [LinkedIn](https://www.linkedin.com/company/65402899/admin/)
-* [Facebook](https://www.facebook.com/SageDigitalCo/)
+* [LinkedIn](https://www.linkedin.com/company/sagedigitalco)
+* [Facebook](https://www.facebook.com/SageDigitalCom/)
 * [Instagram](https://www.instagram.com/sagedigitalcom/)
 * [Twitter](https://twitter.com/sagedigitalcom/)
