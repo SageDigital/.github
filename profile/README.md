@@ -1,7 +1,20 @@
 ![Logotype - Sage Digital - Square](https://user-images.githubusercontent.com/676428/147601190-265b477a-d9c8-4973-8d3b-7ce1f7e99b70.png)
 
 
-# [Sage Digital](https://www.sagedigital.com/) Ruby, TypeScript, and React Developers
+# [Sage Digital](https://www.sagedigital.com/) Ruby, TypeScript, React, and Elixir Developers
+
+## We Develope Solutions for the Following Industries
+
+* US Healthcare (HIPAA-Compliant)
+* Web-Based Applications
+* Digital Maketing Tech
+* Business Productivity
+* Alcoholic Beverages
+* Property Tech
+* Fintech
+* Web3
+* Social
+* Ecommerce
 
 ## We Digitally Transform Businesses
 
