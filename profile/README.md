@@ -3,16 +3,15 @@
 
 # [Sage Digital](https://www.sagedigital.com/) Ruby, TypeScript, React, and Elixir Developers
 
-## We Develope Solutions for the Following Industries
+## We Develop Solutions for the Following Industries
 
 * US Healthcare (HIPAA-Compliant)
 * Web-Based Applications
-* Digital Maketing Tech
+* Digital Marketing
 * Business Productivity
 * Alcoholic Beverages
 * Property Tech
 * Fintech
-* Web3
 * Social
 * Ecommerce
 
